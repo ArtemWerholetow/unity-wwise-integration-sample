@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginInfo Project="IntegrationDemo" Platform="Mac" Key="305E50A7-11" Motion="true">
+	<Plugins>
+		<Plugin Name="Tone Generator" ID="6684674" />
+		<Plugin Name="Wwise Parametric EQ" ID="6881283" />
+		<Plugin Name="Wwise Delay" ID="6946819" />
+		<Plugin Name="Wwise Peak Limiter" ID="7208963" />
+		<Plugin Name="SoundSeed Impact" ID="7602179" />
+		<Plugin Name="Wwise RoomVerb" ID="7733251" />
+		<Plugin Name="Wwise Convolution Reverb" ID="8323075" AudioEase="false" />
+		<Plugin Name="Audio Input" ID="13107202" />
+	</Plugins>
+</PluginInfo>

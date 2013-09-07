@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	519773714	PlayMusicDemo1			\MusicCallbacks\PlayMusicDemo1	
+	1327221850	Resume_All_Global			\Default Work Unit\Resume_All_Global	
+	3493516265	Pause_All_Global			\Default Work Unit\Pause_All_Global	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	752036114	MarchingBand	D:\WwiseHome\1.Installers\Wwise_v2013.1_build_4663\\SDK\samples\IntegrationDemo\WwiseProject\.cache\Mac\sfx\marchingband_159f81dc.wem		\Interactive Music Hierarchy\Music Callbacks\MarchingBand\MarchingBand		127330
+
